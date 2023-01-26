@@ -15,6 +15,6 @@ dependencyResolutionManagement {
 
 }
 
-rootProject.name = "Bubble Showcase"
+rootProject.name = "BubbleShowcase"
 include ':app'
 include ':BubbleShowCase'
