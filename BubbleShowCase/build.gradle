@@ -49,7 +49,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.Mori-hub'
                 artifactId = 'BubbleShowCase'
-                version = '1.0.4'
+                version = '1.0.5'
                 pom {
                     description = 'BubbleShowCase - Android'
 
