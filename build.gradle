@@ -24,3 +24,6 @@ plugins {
     id 'org.jetbrains.kotlin.android' version '1.7.21' apply false
     id 'maven-publish'
 }
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
